@@ -1,0 +1,12 @@
+.mission {
+    display: flex;
+    padding: 100px 0;
+    background: url('../../assets/img/bg/mission.jpg') center center / cover no-repeat;
+}
+
+.mission .mission__wrapper {
+    padding: 1.5em;
+    background-color: rgba(150,45,30, 0.5);
+    max-width: 400px;
+    height: 100%;
+}

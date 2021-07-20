@@ -1,0 +1,22 @@
+.principles {
+    display: flex;
+    padding: 100px 0;
+    background: url('../../assets/img/bg/principles.jpg') center center / cover no-repeat;
+}
+
+.principles .principles__wrapper {
+    margin: 0 auto;
+    padding: 1.5em;
+    background-color: rgba(8, 44, 18, 0.5);
+    max-width: 400px;
+    height: 100%;
+}
+
+.principles .principles__list {
+    list-style-type: none;
+    font-size: 30px;
+}
+
+.principles .principles__item {
+    margin: 0.5em 0;
+}

@@ -1,0 +1,13 @@
+.values {
+    display: flex;
+    padding: 100px 0;
+    background: url('../../assets/img/bg/values.jpg') center center / cover no-repeat;
+}
+
+.values .values__wrapper {
+    margin-left: auto;
+    padding: 1.5em;
+    background-color: rgba(3, 31, 53, 0.5);
+    max-width: 400px;
+    height: 100%;
+}

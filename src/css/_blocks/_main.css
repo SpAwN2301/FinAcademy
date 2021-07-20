@@ -1,0 +1,12 @@
+.main {
+    display: grid;
+    place-content: center;
+
+    background: url('../../assets/img/bg/main.jpg') center center / cover no-repeat;
+}
+
+.main .main__subdescrip {
+    font-size: 24px;
+    font-weight: 100;
+    text-align: center;
+}

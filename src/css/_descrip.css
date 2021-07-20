@@ -1,0 +1,11 @@
+.descrip {
+    line-height: 1.5em;
+    font-size: 30px;
+}
+
+.descrip.descrip_main {
+    font-size: 24px;
+    text-align: center;
+
+    margin-bottom: .5em;
+}
